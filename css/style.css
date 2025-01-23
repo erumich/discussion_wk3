@@ -1,0 +1,31 @@
+h1,h2,h3{
+    color:rgb(30, 88, 142);
+    font-weight: bold;
+}
+
+body{
+    background-color: #e1ede4;
+    font-family: Lato, sans-serif;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+img{
+    /* height: 200px;
+    width: 200px; */
+    max-width: 200px;
+    margin: auto;
+    border: 2px dotted rgb(233, 212, 98);
+}
+/* Within style.css: */
+/* Style the background
+Give the site a new background color
+Style the text
+Change the font
+Make your headers bold
+Change the color
+Style your images
+Customize the height and width
+Put a border around your images
+If you have time add other styling
+Validate your pages to ensure accessible styling */
